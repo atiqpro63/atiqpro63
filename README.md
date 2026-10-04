@@ -1,296 +1,101 @@
 # 👋 Hi, I'm Atiq
 
-🎓 **BS Data Science Student @ UET Faisalabad**
+🎓 **BS Data Science Student @ UET Faisalabad**  
+🤖 **Aspiring AI Engineer & Software Engineer**
 
-💻 Aspiring **AI Engineer & Software Engineer**
+> **Building at the intersection of Data × AI × Software Engineering**
 
-🧠 Interested in **Artificial Intelligence, Machine Learning, Data Science, Backend Engineering, Cybersecurity & Distributed Systems**
+I'm focused on becoming more than a traditional data scientist. My long-term goal is to design, build and deploy intelligent systems—from data pipelines and ML models to AI-powered applications and scalable backend services.
 
----
+## 🧠 About Me
 
-## 🚀 About Me
+- 🎓 Pursuing **BS Data Science**
+- 💻 Programming with **Python, C++, Java, HTML, CSS & SQL**
+- 🧩 Interested in **AI, Machine Learning, Backend Engineering, Cybersecurity & Systems**
+- 🚀 Learning by building real projects and improving them over time
+- 🌱 Currently strengthening **DSA, databases, Git/GitHub and Data Science fundamentals**
+- 🎯 Long-term: **AI Engineering + Software Engineering + intelligent systems**
 
-I'm a Data Science student focused on becoming more than just a data scientist.
+## 🛠️ Skills
 
-My long-term goal is to build **intelligent, scalable and production-ready software systems** by combining:
+### Languages
+`Python` `C++` `Java` `SQL`
 
-> **Data + AI + Software Engineering**
+### Web
+`HTML` `CSS`
 
-I enjoy learning how things work, building projects from scratch, experimenting with new technologies, and turning ideas into working software.
+### Core Foundations
+`OOP` `Problem Solving` `Data Structures` `Algorithms` `Git` `GitHub`
 
-Currently, I'm strengthening my foundations in programming, algorithms, databases and data science while gradually moving toward **AI engineering and backend development**.
+### Exploring
+`NumPy` `Pandas` `Matplotlib` `Machine Learning` `APIs` `Databases`
 
----
+### Future Focus
+`PyTorch` `Deep Learning` `FastAPI` `PostgreSQL` `Docker` `LLMs` `RAG` `AI Agents` `MLOps` `Cloud` `System Design`
 
-## 🧠 My Current Tech Stack
+## 🚀 Projects
 
-### 💻 Programming Languages
+| Project | Description | Focus |
+|---|---|---|
+| 🎓 **UET Hub** | Student-focused platform for academic resources, tasks, timetable and class utilities | Web • Software Engineering |
+| ⏱️ **Chronos** | Productivity and time-management project | Python • Software |
+| 🤖 **AI Assistant** | Personal assistant combining voice interaction, automation and AI | Python • AI |
+| 📊 **Student Performance Predictor** | ML project for analyzing student data and predicting outcomes | Data Science • ML |
+| 🌾 **Agricultural Intelligence** | Long-term AI system for agricultural analytics and decision support | AI • ML • Data |
+| 🧠 **RAG Knowledge Assistant** | Knowledge-base assistant using retrieval + LLMs | AI • RAG |
+| 🛡️ **AI Security Analytics** | Future exploration of ML-assisted log and anomaly analysis | AI • Cybersecurity |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+> Some projects are currently planned or under development. This list tracks where I'm building next.
 
-### 🌐 Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 📊 Data & AI
-
-Currently learning and exploring:
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Statistics & Probability
-* Machine Learning
-* Deep Learning
-* PyTorch
-* Natural Language Processing
-* Computer Vision
-* Generative AI
-* Large Language Models
-* RAG & AI Agents
-
-### ⚙️ Software Engineering
-
-Currently building my foundations in:
-
-* Git & GitHub
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Databases
-* APIs
-* Backend Development
-* Linux
-* Software Architecture
-
-### ☁️ Future Stack
-
-I'm working toward:
-
-* FastAPI
-* PostgreSQL
-* Docker
-* Redis
-* React / Next.js
-* GitHub Actions
-* Cloud Computing
-* MLOps
-* System Design
-* Distributed Systems
-
----
-
-# 🔥 Featured Projects
-
-## 🤖 AI Assistant — Coming Soon
-
-A personal AI assistant designed to combine voice interaction, automation and intelligent responses.
-
-**Planned technologies:**
-
-`Python` `Speech Recognition` `LLMs` `APIs` `Automation`
-
----
-
-## 🎓 UET Student Platform — In Development
-
-A student-focused platform designed to help university students manage their academic life.
-
-### Planned features
-
-* 📚 Course management
-* 📝 Assignments
-* 📅 Timetable
-* ✅ Tasks & deadlines
-* 📢 Announcements
-* 📊 Attendance
-* 👥 Class management
-* 🤖 AI study assistant
-* 🔎 Academic search
-* 📈 Student analytics
-
-**Future stack:**
-
-`Python` `FastAPI` `PostgreSQL` `React` `LLM` `RAG` `Docker`
-
----
-
-## 📊 Student Performance Predictor
-
-A machine learning project that analyzes student-related data and predicts academic performance.
-
-**Technologies:**
-
-`Python` `Pandas` `Scikit-learn` `Matplotlib`
-
-### Goals
-
-* Data cleaning
-* Exploratory data analysis
-* Feature engineering
-* Model training
-* Model evaluation
-* Prediction
-
----
-
-## 🌾 Agricultural Intelligence System — Planned
-
-An AI-powered system designed around agricultural data.
-
-Potential features include:
-
-* Crop recommendations
-* Yield prediction
-* Weather analysis
-* Disease detection
-* Market analysis
-* AI-powered agricultural assistant
-
-**Planned technologies:**
-
-`Python` `Machine Learning` `Deep Learning` `Computer Vision` `LLMs`
-
----
-
-## 🧠 RAG Knowledge Assistant — Future
-
-An AI system capable of answering questions from a custom knowledge base.
-
-### Planned architecture
+## 🎯 Roadmap
 
 ```text
-Documents
+Programming
     ↓
-Text Processing
+DSA + Problem Solving
     ↓
-Embeddings
+SQL + Databases
     ↓
-Vector Database
-    ↓
-Retriever
-    ↓
-LLM
-    ↓
-AI Response
-```
-
-**Technologies:**
-
-`Python` `LLMs` `RAG` `Embeddings` `Vector Database` `FastAPI`
-
----
-
-## 🛡️ AI + Cybersecurity System — Future
-
-An experimental project combining AI with cybersecurity.
-
-Potential applications:
-
-* Log analysis
-* Anomaly detection
-* Threat classification
-* Security analytics
-* Automated alert analysis
-
-**Technologies:**
-
-`Python` `Machine Learning` `Cybersecurity` `Linux`
-
----
-
-# 📚 Currently Learning
-
-```text
-Python
-    ↓
-Data Structures & Algorithms
-    ↓
-SQL & Databases
-    ↓
-Data Science
+Data Science + Statistics
     ↓
 Machine Learning
     ↓
 Deep Learning
     ↓
-AI Engineering
+LLMs + RAG + AI Agents
     ↓
-Backend Engineering
+Backend Engineering + APIs
     ↓
-Cloud & Distributed Systems
+Docker + Cloud + MLOps
+    ↓
+System Design + Distributed Systems
+    ↓
+Production AI Systems
 ```
 
----
+## 📚 Current Focus
 
-# 🎯 Long-Term Goals
+**Python → DSA → SQL → Data Science → ML → AI Engineering**
 
-I am working toward becoming an engineer capable of designing and building complete intelligent systems.
+I follow:
 
-### My roadmap
+> **Learn → Build → Debug → Document → Improve → Repeat**
 
-**Data**
+I don't want to collect technologies just for a résumé. I want to understand them well enough to **build useful things with them**.
 
-→ Data Analysis
-→ Machine Learning
-→ Deep Learning
+## 🌱 What I Want to Build
 
-**AI**
+- Intelligent assistants
+- AI-powered student tools
+- ML APIs
+- RAG applications
+- AI agents
+- Data-driven products
+- AI + cybersecurity tools
+- Scalable backend systems
 
-→ NLP
-→ Computer Vision
-→ LLMs
-→ RAG
-→ AI Agents
+## 🤝 Let's Connect
 
-**Software**
+- GitHub: [@atiqpro63](https://github.com/atiqpro63)
 
-→ Backend Engineering
-→ APIs
-→ Databases
-→ Distributed Systems
-→ System Design
-
-**Infrastructure**
-
-→ Linux
-→ Docker
-→ CI/CD
-→ Cloud
-→ MLOps
-
-**Professional Growth**
-
-→ Open Source
-→ Research
-→ Hackathons
-→ Internships
-→ Real-world Products
-
----
-
-# 📈 My Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I don't want to only learn technologies.
-
-I want to understand **how they work and how to use them to build real systems.**
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in learning, collaborating on interesting projects, and discussing AI, software engineering and technology.
-
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
-**LinkedIn:** [Your LinkedIn](https://linkedin.com/)
-
----
-
-⭐ If you find something interesting here, feel free to explore my repositories.
+⭐ **Thanks for visiting!**

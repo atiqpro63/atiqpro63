@@ -33,7 +33,68 @@ I'm focused on becoming more than a traditional data scientist. My long-term goa
 ### Future Focus
 `PyTorch` `Deep Learning` `FastAPI` `PostgreSQL` `Docker` `LLMs` `RAG` `AI Agents` `MLOps` `Cloud` `System Design`
 
-## 🚀 Projects
+---
+
+# 🗺️ Engineering Skill Map
+
+<p align="center">
+<img src="./assets/skills-map.svg" alt="Atiq's Engineering Skill Map" width="900"/>
+</p>
+
+---
+
+# 🧠 AI & Software Interest Map
+
+```mermaid
+mindmap
+  root((Atiq))
+    Data Science
+      Python
+      NumPy
+      Pandas
+      Statistics
+      Machine Learning
+    AI Engineering
+      Deep Learning
+      PyTorch
+      NLP
+      Computer Vision
+      LLMs
+      RAG
+      AI Agents
+    Software Engineering
+      DSA
+      OOP
+      Backend
+      APIs
+      Databases
+      FastAPI
+    Full Stack
+      HTML
+      CSS
+      React
+      Next.js
+    Systems
+      Linux
+      Docker
+      Cloud
+      MLOps
+      System Design
+      Distributed Systems
+    Cybersecurity
+      Linux
+      Security Analytics
+      Anomaly Detection
+    Building
+      AI Assistants
+      UET Hub
+      ML APIs
+      Data Products
+```
+
+---
+
+# 🚀 Projects
 
 | Project | Description | Focus |
 |---|---|---|
@@ -47,7 +108,7 @@ I'm focused on becoming more than a traditional data scientist. My long-term goa
 
 > Some projects are currently planned or under development. This list tracks where I'm building next.
 
-## 🎯 Roadmap
+# 🎯 Roadmap
 
 ```text
 Programming
@@ -76,8 +137,6 @@ Production AI Systems
 ## 📚 Current Focus
 
 **Python → DSA → SQL → Data Science → ML → AI Engineering**
-
-I follow:
 
 > **Learn → Build → Debug → Document → Improve → Repeat**
 

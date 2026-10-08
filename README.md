@@ -1,160 +1,70 @@
-# 👋 Hi, I'm Atiq
+# Hi, I'm Atiq 👋
 
-🎓 **BS Data Science Student @ UET Faisalabad**  
-🤖 **Aspiring AI Engineer & Software Engineer**
+### BS Data Science Student @ UET Faisalabad
+**Exploring AI Engineering · Software Development · Cybersecurity**
 
-> **Building at the intersection of Data × AI × Software Engineering**
+I’m a first-semester Data Science student building strong programming fundamentals and learning to turn ideas into practical software. I’m especially interested in how data, AI, and software engineering come together to solve real problems.
 
-I'm focused on becoming more than a traditional data scientist. My long-term goal is to design, build and deploy intelligent systems—from data pipelines and ML models to AI-powered applications and scalable backend services.
+> **Learn → Build → Test → Document → Improve**
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **BS Data Science**
-- 💻 Programming with **Python, C++, Java, HTML, CSS & SQL**
-- 🧩 Interested in **AI, Machine Learning, Backend Engineering, Cybersecurity & Systems**
-- 🚀 Learning by building real projects and improving them over time
-- 🌱 Currently strengthening **DSA, databases, Git/GitHub and Data Science fundamentals**
-- 🎯 Long-term: **AI Engineering + Software Engineering + intelligent systems**
+- 🎓 Studying **BS Data Science** at the University of Engineering and Technology, Faisalabad
+- 🐍 Practising Python and strengthening programming fundamentals
+- 💻 Exploring C++, Java, HTML, CSS, and SQL
+- 🧠 Interested in Data Science, AI/ML, software development, and cybersecurity
+- 🛠️ Learning Git, GitHub, project documentation, and collaborative workflows
+- 🚀 Building projects incrementally and documenting what I learn
 
-## 🛠️ Skills
+## 🧰 Technologies
 
-### Languages
-`Python` `C++` `Java` `SQL`
+**Currently learning / practising**
+- Python · C++ · Java
+- HTML · CSS · SQL fundamentals
+- Git · GitHub · VS Code
 
-### Web
-`HTML` `CSS`
+**Exploring next**
+- NumPy · pandas · data visualisation
+- APIs · databases · testing
+- Machine learning fundamentals
+- Linux and cybersecurity fundamentals
 
-### Core Foundations
-`OOP` `Problem Solving` `Data Structures` `Algorithms` `Git` `GitHub`
+*These sections describe my learning journey, not professional mastery of every technology listed.*
 
-### Exploring
-`NumPy` `Pandas` `Matplotlib` `Machine Learning` `APIs` `Databases`
+## 🗺️ My Learning Map
 
-### Future Focus
-`PyTorch` `Deep Learning` `FastAPI` `PostgreSQL` `Docker` `LLMs` `RAG` `AI Agents` `MLOps` `Cloud` `System Design`
+![Atiq's engineering learning map](./assets/skills-map.svg)
 
----
+I’m working toward a foundation that connects:
 
-# 🗺️ Engineering Skill Map
+- **Data & AI:** Python, statistics, data analysis, and eventually machine learning
+- **Software engineering:** problem-solving, clean code, APIs, and databases
+- **Systems:** Git, Linux, testing, and deployment fundamentals
+- **Cybersecurity:** networking, secure coding, and authorised hands-on labs
 
-<p align="center">
-<img src="./assets/skills-map.svg" alt="Atiq's Engineering Skill Map" width="900"/>
-</p>
+## 🚧 Projects
 
----
+| Project | Status | What I'm working toward |
+| --- | --- | --- |
+| [UET Hub](https://github.com/atiqpro63/uet-hub) | Early-stage prototype | A student-focused hub for academic resources and class utilities |
+| [Chronos](https://github.com/atiqpro63/chronos) | Planning stage | A productivity and time-management project |
+| [Python Learning Roadmap](https://github.com/atiqpro63) | Learning in progress | Notes, examples, diagrams, and exercises as I learn |
 
-# 🧠 AI & Software Interest Map
+I’ll update this section with demos, screenshots, setup instructions, and concrete features as each project develops.
 
-```mermaid
-mindmap
-  root((Atiq))
-    Data Science
-      Python
-      NumPy
-      Pandas
-      Statistics
-      Machine Learning
-    AI Engineering
-      Deep Learning
-      PyTorch
-      NLP
-      Computer Vision
-      LLMs
-      RAG
-      AI Agents
-    Software Engineering
-      DSA
-      OOP
-      Backend
-      APIs
-      Databases
-      FastAPI
-    Full Stack
-      HTML
-      CSS
-      React
-      Next.js
-    Systems
-      Linux
-      Docker
-      Cloud
-      MLOps
-      System Design
-      Distributed Systems
-    Cybersecurity
-      Linux
-      Security Analytics
-      Anomaly Detection
-    Building
-      AI Assistants
-      UET Hub
-      ML APIs
-      Data Products
-```
+## 🎯 Current Focus
+
+1. Strengthen Python fundamentals and problem-solving
+2. Practise Git branches, commits, issues, and pull requests
+3. Write readable code and basic automated tests
+4. Build and document small projects before moving to larger ones
+5. Progress toward Data Science, AI, and cybersecurity through structured learning
+
+## 🤝 Connect
+
+- **GitHub:** [@atiqpro63](https://github.com/atiqpro63)
+- **LinkedIn:** Add my personal LinkedIn profile once it is set up
 
 ---
 
-# 🚀 Projects
-
-| Project | Description | Focus |
-|---|---|---|
-| 🎓 **UET Hub** | Student-focused platform for academic resources, tasks, timetable and class utilities | Web • Software Engineering |
-| ⏱️ **Chronos** | Productivity and time-management project | Python • Software |
-| 🤖 **AI Assistant** | Personal assistant combining voice interaction, automation and AI | Python • AI |
-| 📊 **Student Performance Predictor** | ML project for analyzing student data and predicting outcomes | Data Science • ML |
-| 🌾 **Agricultural Intelligence** | Long-term AI system for agricultural analytics and decision support | AI • ML • Data |
-| 🧠 **RAG Knowledge Assistant** | Knowledge-base assistant using retrieval + LLMs | AI • RAG |
-| 🛡️ **AI Security Analytics** | Future exploration of ML-assisted log and anomaly analysis | AI • Cybersecurity |
-
-> Some projects are currently planned or under development. This list tracks where I'm building next.
-
-# 🎯 Roadmap
-
-```text
-Programming
-    ↓
-DSA + Problem Solving
-    ↓
-SQL + Databases
-    ↓
-Data Science + Statistics
-    ↓
-Machine Learning
-    ↓
-Deep Learning
-    ↓
-LLMs + RAG + AI Agents
-    ↓
-Backend Engineering + APIs
-    ↓
-Docker + Cloud + MLOps
-    ↓
-System Design + Distributed Systems
-    ↓
-Production AI Systems
-```
-
-## 📚 Current Focus
-
-**Python → DSA → SQL → Data Science → ML → AI Engineering**
-
-> **Learn → Build → Debug → Document → Improve → Repeat**
-
-I don't want to collect technologies just for a résumé. I want to understand them well enough to **build useful things with them**.
-
-## 🌱 What I Want to Build
-
-- Intelligent assistants
-- AI-powered student tools
-- ML APIs
-- RAG applications
-- AI agents
-- Data-driven products
-- AI + cybersecurity tools
-- Scalable backend systems
-
-## 🤝 Let's Connect
-
-- GitHub: [@atiqpro63](https://github.com/atiqpro63)
-
-⭐ **Thanks for visiting!**
+⭐ Thanks for visiting. I’m learning in public and improving one project at a time.
